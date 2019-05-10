@@ -1,29 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yutiandesign/yutian.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 个人简历
+### 联系方式
+- 手机：13644981748
+- E-mail:linlithgowshire@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人信息
+- 姓名：林乐增/性别：男/出生年份：1990年
+- 本科/大连工业大学/服装设计 2009-2013
+-工作年限：5年
+-技术博客：http://yutian.github.io
+-Github:http://github.com/yutian
 
-### Markdown
+### 工作经历
+#### 大连有田设计工作室（2013年7月～2017年7月）
+**项目描述：**
+该项目主要从事职业装设计、舞美服装设计、平面视觉设计、视频剪辑与制作、服装样板制作、服装案板工艺制作、服装车缝工艺制作。
+**实现技术：**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**职责描述：**
+1. 负责项目的设计图制作；
+2. 负责项目的提案制作；
+3. 负责项目的媒体宣传设计。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+##### 其他项目
+- <Nature Armour>广告概念视频制作项目：该项目是为新泳装品牌Nature Armour制作广告概念片，使用视频剪辑技术，完成对品牌理念的表达与提升。
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
