@@ -25,14 +25,3 @@
 
 ##### 其他项目
 - <Nature Armour>广告概念视频制作项目：该项目是为新泳装品牌Nature Armour制作广告概念片，使用视频剪辑技术，完成对品牌理念的表达与提升。
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yutiandesign/yutian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
